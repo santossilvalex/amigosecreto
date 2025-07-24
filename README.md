@@ -6,6 +6,6 @@ Com a ajuda da Alura, tive o desafio de colocar em prática o JavaScript em um p
 | -------------  | --- |
 | :sparkles: Nome        | **Amigo secreto - Alexsander Santos da Silva**
 | :label: Tecnologias | javascript, html, css
-| :rocket: URL         | https://amigo-secreto-nine-alpha.vercel.app/
+| :rocket: URL         |https://amigosecreto-mocha.vercel.app/
 
 
