@@ -1,11 +1,22 @@
-# Amigo secreto
+# Amigo Secreto
+Este projeto é um simulador de sorteio para amigo secreto, desenvolvido como parte de um desafio da Alura. Foi construído utilizando JavaScript, HTML e CSS.
 
-Com a ajuda da Alura, tive o desafio de colocar em prática o JavaScript em um projeto de simulação de sorteio para amigo secreto. Adicionei as funcionalidades de adicionar os nomes dos amigos em uma lista, fazer o sorteio de maneira aleatória, reiniciar o sorteio e ainda algumas validações como quantidade mínima de participantes, verificação de nomes iguais na lista e não permitir adicionar na lista um "nome" vazio.
+:sparkles: Funcionalidades
+Adicionar Participantes: Adicione facilmente os nomes dos amigos à lista.
 
+Sorteio Aleatório: Realiza um sorteio randomizado para emparelhar os participantes.
 
-| -------------  | --- |
-| :sparkles: Nome        | **Amigo secreto - Alexsander Santos da Silva**
-| :label: Tecnologias | javascript, html, css
-| :rocket: URL         |https://amigosecreto-mocha.vercel.app/
+Reiniciar: Limpa a lista e reinicia o sorteio.
+
+Validações de Entrada:
+
+Garante um número mínimo de participantes para o sorteio.
+
+Verifica nomes duplicados para evitar problemas.
+
+Impede a adição de nomes vazios à lista.
+
+:rocket: Demonstração Online
+Você pode experimentar a aplicação ao vivo aqui: https://amigosecreto-mocha.vercel.app/
 
 
